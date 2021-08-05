@@ -7,16 +7,6 @@ Um projeto inspirado no site rappi.
 
 https://rappimolina.surge.sh/
 
-### O que não funciona(em produção): 
-
-
-    - Na parte de busca e filtros 
-    
-    - A parte dos pedidos
-    
-    - Splash Screen
-    
-    
 
 ### Site
 
