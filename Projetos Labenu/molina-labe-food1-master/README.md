@@ -1,10 +1,8 @@
 ## Sejam bem vindos a Rappi4A!
 
-## Projeto de Conclusão Modulo Front-End Labenu ##
+## Projeto de Conclusão Módulo Front-End Labenu ##
 
 Um projeto inspirado no site rappi.
-
-
 
 ### Site em teste para mobile:
 
